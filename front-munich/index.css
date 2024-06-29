@@ -1,0 +1,38 @@
+header{
+    margin-top: 10px 10px;
+    margin: 0%;
+    display:flex;
+    background: rgba(24, 17, 4, 0.281);
+    justify-content: space-between;
+    align-items: center;
+    gap: 80px;
+    font-family: system-ui;
+    border-top: 10cap;
+    margin-bottom: 100px;
+    
+    }
+header nav a{
+gap:110px;
+margin-right: 50px;
+font-family: system-ui;
+font-size: 35px;
+align-items: center;
+ 
+}
+
+body{
+background-image: url();
+background-size: cover;
+flex-direction: column;
+height: 100vh;
+
+}
+
+
+
+  #banner img{
+    align-items: center;
+   width: 100%;
+   height: 800px;
+   
+  }
